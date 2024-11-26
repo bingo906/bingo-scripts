@@ -47,7 +47,8 @@ https://waytoagi.feishu.cn/wiki/OWTow2oPViaMZ4ky2CKcRI30nGg
 https://github.com/bingo906/bingo-scripts/blob/main/ChatGPT%20SVG%20Preview-2.2.user.js
 
 ### 交流联系
-![qrcode_for_gh_b8ddb63c87bd_258](https://github.com/user-attachments/assets/2f254523-b736-4d83-b9ff-dd10b7abad47)
-![image](https://github.com/user-attachments/assets/1550bc39-bbeb-4ec1-82c7-138ec467a2ab)
+wechat: bingo906
+
+公众号：zigbee906
 
 
