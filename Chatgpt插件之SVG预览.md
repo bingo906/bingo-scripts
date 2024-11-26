@@ -16,7 +16,7 @@ https://waytoagi.feishu.cn/wiki/OWTow2oPViaMZ4ky2CKcRI30nGg
 
 路径及效果：
 
-![image-20241122140026110](/Users/a58/Desktop/设计文档/chatgpt预览/1.png)
+![1](https://github.com/user-attachments/assets/d6e135c0-eea3-4386-a045-c68d48592b61)
 
 
 
@@ -24,10 +24,10 @@ https://waytoagi.feishu.cn/wiki/OWTow2oPViaMZ4ky2CKcRI30nGg
 
 #### Claude
 
-![image-20241122140151453](/Users/a58/Desktop/设计文档/chatgpt预览/2.png)
 
 对于提示词的理解及生成质量及样式水平最佳 ，但claude目前需要外网号码注册且限额，使用体验一般。考虑通过chatgpt实现。
 
+![2](https://github.com/user-attachments/assets/a9278226-eea3-447e-b151-6cac55ec91f4)
 
 
 #### chatgpt：（无原生预览功能）
@@ -37,9 +37,7 @@ https://waytoagi.feishu.cn/wiki/OWTow2oPViaMZ4ky2CKcRI30nGg
 因此引出想创建一个油猴脚本在实现预览的能力。
 
 插件效果如下： 
-
-![image-20241122140503664](/Users/a58/Desktop/设计文档/chatgpt预览/3.png)
-
+<img width="1437" alt="3" src="https://github.com/user-attachments/assets/6b7624b3-62d3-4fcd-a26c-81ec5f539e42">
 
 
 ### 脚本安装
