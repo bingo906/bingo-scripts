@@ -48,6 +48,7 @@ align-items: center;
 background: white;
 overflow: auto;
 }
+
 .svg-preview-content svg {
 max-width: 100%;
 max-height: 100%;
@@ -100,7 +101,10 @@ const container = document.createElement('div');
 container.classList.add('svg-preview-container');
 container.style.display = 'none';
 container.innerHTML = `
-<div class="svg-preview-header">SVG Preview</div>
+<div class="svg-preview-header">
+     <span class="title">SVG Preview</span>
+    <span class="author">Dev. by: bingo906(wechat)</span>
+</div>
 <div class="svg-preview-content" id="svg-preview"></div>
 <div class="svg-preview-footer">
     <button id="svg-toggle">Close</button>
