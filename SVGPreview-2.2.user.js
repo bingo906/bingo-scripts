@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ChatGPT SVG Preview
+// @name         SVG Preview
 // @namespace    http://tampermonkey.net/
 // @version      2.2
 // @description  Render and save SVG content on ChatGPT's website when copying SVG code, and provide options to save as SVG or JPG
